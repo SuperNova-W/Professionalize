@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Gmail Reply Orb",
-  "description": "Local Gmail reply assistant with tone controls and one-click insertion.",
+  "name": "Handshook",
+  "description": "Gmail reply assistant with tone controls and one-click insertion.",
   "version": "0.1.0",
   "permissions": ["activeTab"],
   "host_permissions": ["http://localhost:3789/*"],
@@ -14,5 +14,3 @@
     }
   ]
 }
-
-

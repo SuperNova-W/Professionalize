@@ -14,7 +14,7 @@
     </button>
     <section class="gro-panel gro-hidden" aria-label="Gmail reply assistant">
       <div class="gro-header">
-        <div class="gro-title">Gmail Reply Orb</div>
+        <div class="gro-title">Handshook</div>
         <button class="gro-icon-button" type="button" data-action="close" title="Close" aria-label="Close">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <path d="M18 6L6 18M6 6l12 12"/>
@@ -205,5 +205,3 @@
 
   renderSliders();
 })();
-
-

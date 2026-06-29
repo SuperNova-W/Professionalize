@@ -1,4 +1,4 @@
-# Gmail Reply Orb
+# Handshook
 
 Local MVP for a Grammarly-style Gmail reply assistant.
 
@@ -49,5 +49,3 @@ PORT=3789
 ## Notes
 
 This MVP reads only the Gmail DOM in the currently open tab. It does not use the Gmail API, store emails, or send messages. The local server receives the visible thread text and the instructions you type.
-
-
