@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Handshook",
+  "name": "Professionalize",
   "description": "Gmail reply assistant with tone controls and one-click insertion.",
   "version": "0.1.0",
   "permissions": ["activeTab"],

@@ -118,5 +118,5 @@ function buildMockReply({ instruction, mode, sliders, subject }) {
 }
 
 app.listen(port, () => {
-  console.log(`Handshook server listening on http://localhost:${port}`);
+  console.log(`Professionalize server listening on http://localhost:${port}`);
 });

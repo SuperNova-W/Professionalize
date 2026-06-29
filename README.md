@@ -1,4 +1,4 @@
-# Handshook
+# Professionalize
 
 Local MVP for a Grammarly-style Gmail reply assistant.
 
